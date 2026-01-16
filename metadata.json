@@ -1,0 +1,8 @@
+{
+  "name": "Pathfinder: Project Builder Advisor",
+  "description": "A comprehensive guide for students and beginners to choose the right development path for their projects, featuring AI-powered comparisons, image tools, and real-time voice assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
